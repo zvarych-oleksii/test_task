@@ -1,8 +1,10 @@
 # test_task
 Django two pages web-site
 
+```sh
 git clone https://github.com/zvarych-oleksii/test_task.git
 cd test_task
+```
 
 Create docker-compose and run it
 
